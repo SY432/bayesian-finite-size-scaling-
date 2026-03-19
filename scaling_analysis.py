@@ -5,7 +5,7 @@ Affiliation: Shijiazhuang Medical College
 Address: No.1 Tongxin Road, Lingshou County, Shijiazhuang, Hebei 050062, China
 Phone: +86 13187666610
 Paper: "Robust Bayesian Inference Protocol for Finite-Size Scaling"
-DOI: 10.5281/zenodo.XXXXXXXXX (to be assigned)
+DOI: https://zenodo.org/records/19104859
 """
 
 import numpy as np
