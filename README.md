@@ -3,11 +3,11 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXXXX)
 
 **Author:** Shi Yan (施延)
-- Affiliation: Shijiazhuang Medical College, Department of Physics
+- Affiliation: Shijiazhuang Medical College
 - Address: No.1 Tongxin Road, Lingshou County, Shijiazhuang, Hebei 050062, China
 - Phone: +86 13187666610
-- Email: yanshi@stumail.smc.edu.cn
-
+- Email: 15891843770@163.com
+  
 **Paper:** "Robust Bayesian Inference Protocol for Finite-Size Scaling: Quantifying Evidence for Conformal Field Theory Corrections in Quantum Many-Body Systems"
 
 ## Overview
